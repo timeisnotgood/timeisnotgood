@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💻 **Timeisnotgood - Full Stack Developer**
+# 💻 **Bhoopathirs - Full Stack Developer**
 
 Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation in building scalable, high-performance web applications. I have hands-on experience with both frontend and backend technologies, along with a keen interest in AI, machine learning, and DevOps. I'm currently on a journey to master data structures and algorithms to become a more effective problem solver.
 
@@ -114,9 +114,9 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ## 🤝 **Connect with Me**
 
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* Portfolio: [Your Portfolio Link](https://your-portfolio.com)
+* LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bhoopathirs/))
+* Email: [your-email@gmail.com](mailto:bhoopathicl@gmail.com)
+<!-- * Portfolio: [Your Portfolio Link](https://your-portfolio.com) -->
 
 ---
 
