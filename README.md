@@ -114,8 +114,8 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ## 🤝 **Connect with Me**
 
-* LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bhoopathirs/))
-* Email: [your-email@gmail.com](mailto:bhoopathicl@gmail.com)
+- **LinkedIn:** [Bhoopathi R S](https://www.linkedin.com/in/bhoopathirs/)
+- **Email:** [bhoopathicl@gmail.com](mailto:bhoopathicl@gmail.com)
 <!-- * Portfolio: [Your Portfolio Link](https://your-portfolio.com) -->
 
 ---
