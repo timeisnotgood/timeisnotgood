@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💻 **Bhoopathirs - Full Stack Developer**
+# 💻 **Bhoopathi R S - Full Stack Developer**
 
 Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation in building scalable, high-performance web applications. I have hands-on experience with both frontend and backend technologies, along with a keen interest in AI, machine learning, and DevOps. I'm currently on a journey to master data structures and algorithms to become a more effective problem solver.
 
