@@ -50,7 +50,7 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 ![node.js](https://img.icons8.com/?size=50&id=54087&format=png&color=000000)
 ![express.js](https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png&color=000000)
 ![Sql](https://img.icons8.com/?size=50&id=J6KcaRLsTgpZ&format=png&color=000000)
-![API](https://img.icons8.com/?size=50&id=45057&format=png&color=000000)
+![API](https://img.icons8.com/?size=100&id=121837&format=png&color=000000)
 ![redux](https://img.icons8.com/?size=50&id=b6vIINYN0kfW&format=png&color=000000)
 ![material UI](https://img.icons8.com/?size=50&id=gFw7X5Tbl3ss&format=png&color=000000)
 ![tailwind](https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png&color=000000)
