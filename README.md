@@ -126,7 +126,7 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ---
 
-## 📕 Latest Blog Posts
+<!-- ## 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -134,9 +134,9 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ---
 
-## 🎧 Now Playing on Spotify
+<!-- ## 🎧 Now Playing on Spotify -->
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/timeisnotgood)
+<!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/timeisnotgood) -->
 
 ---
 
