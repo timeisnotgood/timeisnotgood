@@ -108,14 +108,14 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ---
 
-## 📊 **GitHub Trophies**
+## 📊 **LeatCode Stats**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=timeisnotgood\&theme=onedark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhoopathi_Sundarasamy?theme=catppuccinMocha&font=Port%20Lligat%20Sans&ext=heatmap)
 
 ## 📊 **GitHub Stats**
 
-![Timeisnotgood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timeisnotgood\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timeisnotgood\&layout=compact\&theme=radical)
+![Timeisnotgood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timeisnotgood\&show_icons=true\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timeisnotgood\&layout=compact\&theme=default)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=timeisnotgood\&color=blue)
 
