@@ -121,7 +121,8 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ## 📊 **GitHub Contribution Graph**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=timeisnotgood\&theme=react-dark)
+[![Timeisnotgood's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=timeisnotgood&theme=react-dark&hide_border=true)](https://github.com/timeisnotgood)
+
 
 ---
 
