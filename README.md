@@ -59,10 +59,10 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 ![spring](https://img.icons8.com/?size=50&id=90519&format=png&color=000000)
 ![html](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 ![css](https://img.icons8.com/?size=50&id=YjeKwnSQIBUq&format=png&color=000000)
-![javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-![postman](https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000)
-![OpenAI](https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000)
-![OpenAI](https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000)
+![javascript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+![postman](https://img.icons8.com/?size=50&id=EPbEfEa7o8CB&format=png&color=000000)
+![OpenAI](https://img.icons8.com/?size=50&id=ka3InxFU3QZa&format=png&color=000000)
+![OpenAI](https://img.icons8.com/?size=50&id=ka3InxFU3QZa&format=png&color=000000)
 
 ---
 
