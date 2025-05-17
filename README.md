@@ -45,6 +45,8 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 * Socket.io, Redis, Haraka, OpenAI, 
 
+* i Code in
+
 ![python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
 ![react](https://img.icons8.com/?size=50&id=123603&format=png&color=000000)
 ![node.js](https://img.icons8.com/?size=50&id=54087&format=png&color=000000)
@@ -60,9 +62,15 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 ![html](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 ![css](https://img.icons8.com/?size=50&id=YjeKwnSQIBUq&format=png&color=000000)
 ![javascript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+![OpenAI](https://img.icons8.com/?size=50&id=ka3InxFU3QZa&format=png&color=000000)
+
+* IDE and Tools 
+
 ![postman](https://img.icons8.com/?size=50&id=EPbEfEa7o8CB&format=png&color=000000)
-![OpenAI](https://img.icons8.com/?size=50&id=ka3InxFU3QZa&format=png&color=000000)
-![OpenAI](https://img.icons8.com/?size=50&id=ka3InxFU3QZa&format=png&color=000000)
+![vsCode](https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000)
+![Notion](https://img.icons8.com/?size=50&id=nZoJhBpPfVev&format=png&color=000000)
+![figma](https://img.icons8.com/?size=50&id=W0YEwBDDfTeu&format=png&color=000000)
+
 
 ---
 
