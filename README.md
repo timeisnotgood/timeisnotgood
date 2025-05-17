@@ -119,9 +119,9 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=timeisnotgood\&color=blue)
 
-## 📊 **GitHub Contribution Graph**
+## 📊 GitHub Contribution Graph
 
-[![Timeisnotgood's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=timeisnotgood&theme=react-dark&hide_border=true)](https://github.com/timeisnotgood)
+[![Timeisnotgood's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=timeisnotgood&theme=react-dark&hide_border=true)](https://github.com/timeisnotgood)
 
 
 ---
