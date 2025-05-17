@@ -114,8 +114,8 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 ## 📊 **GitHub Stats**
 
-![Timeisnotgood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timeisnotgood\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timeisnotgood\&layout=compact\&theme=default)
+![Timeisnotgood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timeisnotgood\&show_icons=true\&theme=github_dark_dimmed)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timeisnotgood\&layout=compact\&theme=github_dark_dimmed)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=timeisnotgood\&color=blue)
 
