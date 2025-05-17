@@ -43,7 +43,20 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 
 **Others:**
 
-* Socket.io, Redis, Haraka, OpenAI, SMTP
+* Socket.io, Redis, Haraka, OpenAI, 
+
+![python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![react](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)
+![node.js](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
+![express.js](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
+![Sql](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)
+![API](https://img.icons8.com/?size=100&id=45057&format=png&color=000000)
+![redux](https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000)
+![material UI](https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000)
+![tailwind](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000)
+![responsive](https://img.icons8.com/?size=100&id=55046&format=png&color=000000)
+![java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![spring](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)
 
 ---
 
