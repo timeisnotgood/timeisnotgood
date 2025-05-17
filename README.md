@@ -46,7 +46,7 @@ Hey there! 👋 I'm a passionate Full Stack Developer with a strong foundation i
 * Socket.io, Redis, Haraka, OpenAI, 
 
 ![python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
-![react](https://img.icons8.com/?size=50&id=wPohyHO_qO1a&format=png&color=000000)
+![react](https://img.icons8.com/?size=50&id=123603&format=png&color=000000)
 ![node.js](https://img.icons8.com/?size=50&id=54087&format=png&color=000000)
 ![express.js](https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png&color=000000)
 ![Sql](https://img.icons8.com/?size=50&id=J6KcaRLsTgpZ&format=png&color=000000)
